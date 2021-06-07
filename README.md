@@ -1,7 +1,6 @@
 ## Img To pdf
 Convert multiple pictures to pdf
 
->轉換多張圖當至一份pdf
 ## Environment
 
 ```python
@@ -15,8 +14,3 @@ PIL       = 8.2.0
 2. Run run.py
 3. Input name of pdf
 4. Fine the .pdf in PDF file
-
->1. 將圖片放入Img資料夾中,並依順序命名圖檔
->2. python run.py
->3. 輸入 pdf 名稱
->4. 到 PDF 資料夾找 .pdf
