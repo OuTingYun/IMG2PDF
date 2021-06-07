@@ -1,8 +1,22 @@
-0.將圖片放入MyImg2Pic資料夾中,並將名稱按照數字排好
-1.alt+D
-2.conda activate PythonCourse
-3.python run.py
-4.輸入名稱
-5.Enter
-6.出現：Successfully Save 名稱.pdf 
-7.到PDFt 資料夾找
+## Img To pdf
+Convert multiple pictures to pdf
+
+>轉換多張圖當至一份pdf
+## Environment
+
+```python
+python    = 3.7.10
+reportlab = 3.5.51
+PIL       = 8.2.0
+```
+
+## How To Use
+1. Put the pictures in the Img folder and name the pictures in order
+2. Run run.py
+3. Input name of pdf
+4. Fine the .pdf in PDF file
+
+>1. 將圖片放入Img資料夾中,並依順序命名圖檔
+>2. python run.py
+>3. 輸入 pdf 名稱
+>4. 到 PDF 資料夾找 .pdf
