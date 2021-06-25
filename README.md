@@ -14,6 +14,9 @@ PIL       = 8.2.0
 1. Put the pictures in the Img folder and name the pictures in order
 
     >將圖片放入Img資料夾中,並依順序命名圖檔
+
+    >![folder](https://github.com/OuTingYun/Images/blob/master/IMG2PDF/folder.png)
+
 2. Run run.py
 
     >執行 run.py
@@ -24,3 +27,5 @@ PIL       = 8.2.0
 4. Fine the .pdf in PDF file
 
     >到 PDF 資料夾找 .pdf
+
+    >![sample](https://github.com/OuTingYun/IMG2PDF/blob/master/PDF/create.pdf)
