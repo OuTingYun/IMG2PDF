@@ -28,4 +28,4 @@ PIL       = 8.2.0
 
     >到 PDF 資料夾找 .pdf
 
-    >![sample](https://github.com/OuTingYun/IMG2PDF/blob/master/PDF/create.pdf)
+    >[sample](https://github.com/OuTingYun/IMG2PDF/blob/master/PDF/create.pdf)
